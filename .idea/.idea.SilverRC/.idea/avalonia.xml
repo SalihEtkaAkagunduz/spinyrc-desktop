@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="SilverRC/App.axaml" value="SilverRC/SilverRC.csproj" />
+        <entry key="SilverRC/Utils/ProgressDialog.axaml" value="SilverRC/SilverRC.csproj" />
+        <entry key="SilverRC/Utils/TextInputDialog.axaml" value="SilverRC/SilverRC.csproj" />
+        <entry key="SilverRC/Views/AboutPageView.axaml" value="SilverRC/SilverRC.csproj" />
+        <entry key="SilverRC/Views/ControllerPages/ConverterUsagePageView.axaml" value="SilverRC/SilverRC.csproj" />
+        <entry key="SilverRC/Views/ControllerPages/InputDialogPageView.axaml" value="SilverRC/SilverRC.csproj" />
+        <entry key="SilverRC/Views/ControllerPages/SplashScreenPageView.axaml" value="SilverRC/SilverRC.csproj" />
+        <entry key="SilverRC/Views/ControllerPages/TaskDialogPageView.axaml" value="SilverRC/SilverRC.csproj" />
+        <entry key="SilverRC/Views/ControllerPages/ThemeSettingsPageView.axaml" value="SilverRC/SilverRC.csproj" />
+        <entry key="SilverRC/Views/HomePageView.axaml" value="SilverRC/SilverRC.csproj" />
+        <entry key="SilverRC/Views/MainWindow.axaml" value="SilverRC/SilverRC.csproj" />
+        <entry key="SilverRC/Views/SettingsWindow.axaml" value="SilverRC/SilverRC.csproj" />
+        <entry key="SilverRC/Views/SplashScreenWindow.axaml" value="SilverRC/SilverRC.csproj" />
+      </map>
+    </option>
+  </component>
+</project>

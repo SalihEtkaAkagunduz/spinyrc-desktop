@@ -1,0 +1,225 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\s2344\\RiderProjects\\SilverRC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE75A8E-67C2-4E54-BE16-BF9C2FE3FEAC}|SilverRC\\SilverRC.csproj|c:\\users\\s2344\\riderprojects\\silverrc\\silverrc\\views\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE75A8E-67C2-4E54-BE16-BF9C2FE3FEAC}|SilverRC\\SilverRC.csproj|solutionrelative:silverrc\\views\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE75A8E-67C2-4E54-BE16-BF9C2FE3FEAC}|SilverRC\\SilverRC.csproj|c:\\users\\s2344\\riderprojects\\silverrc\\silverrc\\views\\mainwindow.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9FE75A8E-67C2-4E54-BE16-BF9C2FE3FEAC}|SilverRC\\SilverRC.csproj|solutionrelative:silverrc\\views\\mainwindow.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE75A8E-67C2-4E54-BE16-BF9C2FE3FEAC}|SilverRC\\SilverRC.csproj|c:\\users\\s2344\\riderprojects\\silverrc\\silverrc\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE75A8E-67C2-4E54-BE16-BF9C2FE3FEAC}|SilverRC\\SilverRC.csproj|solutionrelative:silverrc\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE75A8E-67C2-4E54-BE16-BF9C2FE3FEAC}|SilverRC\\SilverRC.csproj|c:\\users\\s2344\\riderprojects\\silverrc\\silverrc\\models\\pagesenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE75A8E-67C2-4E54-BE16-BF9C2FE3FEAC}|SilverRC\\SilverRC.csproj|solutionrelative:silverrc\\models\\pagesenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE75A8E-67C2-4E54-BE16-BF9C2FE3FEAC}|SilverRC\\SilverRC.csproj|c:\\users\\s2344\\riderprojects\\silverrc\\silverrc\\views\\settingspageview.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE75A8E-67C2-4E54-BE16-BF9C2FE3FEAC}|SilverRC\\SilverRC.csproj|solutionrelative:silverrc\\views\\settingspageview.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE75A8E-67C2-4E54-BE16-BF9C2FE3FEAC}|SilverRC\\SilverRC.csproj|c:\\users\\s2344\\riderprojects\\silverrc\\silverrc\\viewmodels\\settingspageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE75A8E-67C2-4E54-BE16-BF9C2FE3FEAC}|SilverRC\\SilverRC.csproj|solutionrelative:silverrc\\viewmodels\\settingspageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE75A8E-67C2-4E54-BE16-BF9C2FE3FEAC}|SilverRC\\SilverRC.csproj|c:\\users\\s2344\\riderprojects\\silverrc\\silverrc\\views\\settingspageview.axaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9FE75A8E-67C2-4E54-BE16-BF9C2FE3FEAC}|SilverRC\\SilverRC.csproj|solutionrelative:silverrc\\views\\settingspageview.axaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE75A8E-67C2-4E54-BE16-BF9C2FE3FEAC}|SilverRC\\SilverRC.csproj|c:\\users\\s2344\\riderprojects\\silverrc\\silverrc\\views\\aboutpageview.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9FE75A8E-67C2-4E54-BE16-BF9C2FE3FEAC}|SilverRC\\SilverRC.csproj|solutionrelative:silverrc\\views\\aboutpageview.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE75A8E-67C2-4E54-BE16-BF9C2FE3FEAC}|SilverRC\\SilverRC.csproj|c:\\users\\s2344\\riderprojects\\silverrc\\silverrc\\viewmodels\\settingsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE75A8E-67C2-4E54-BE16-BF9C2FE3FEAC}|SilverRC\\SilverRC.csproj|solutionrelative:silverrc\\viewmodels\\settingsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE75A8E-67C2-4E54-BE16-BF9C2FE3FEAC}|SilverRC\\SilverRC.csproj|c:\\users\\s2344\\riderprojects\\silverrc\\silverrc\\app.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE75A8E-67C2-4E54-BE16-BF9C2FE3FEAC}|SilverRC\\SilverRC.csproj|solutionrelative:silverrc\\app.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE75A8E-67C2-4E54-BE16-BF9C2FE3FEAC}|SilverRC\\SilverRC.csproj|c:\\users\\s2344\\riderprojects\\silverrc\\silverrc\\views\\splashscreenwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE75A8E-67C2-4E54-BE16-BF9C2FE3FEAC}|SilverRC\\SilverRC.csproj|solutionrelative:silverrc\\views\\splashscreenwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE75A8E-67C2-4E54-BE16-BF9C2FE3FEAC}|SilverRC\\SilverRC.csproj|c:\\users\\s2344\\riderprojects\\silverrc\\silverrc\\views\\controllerpages\\splashscreenpageview.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE75A8E-67C2-4E54-BE16-BF9C2FE3FEAC}|SilverRC\\SilverRC.csproj|solutionrelative:silverrc\\views\\controllerpages\\splashscreenpageview.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SettingsPageView.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\s2344\\RiderProjects\\SilverRC\\SilverRC\\Views\\SettingsPageView.axaml.cs",
+              "RelativeDocumentMoniker": "SilverRC\\Views\\SettingsPageView.axaml.cs",
+              "ToolTip": "C:\\Users\\s2344\\RiderProjects\\SilverRC\\SilverRC\\Views\\SettingsPageView.axaml.cs",
+              "RelativeToolTip": "SilverRC\\Views\\SettingsPageView.axaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T20:25:49.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PagesEnum.cs",
+              "DocumentMoniker": "C:\\Users\\s2344\\RiderProjects\\SilverRC\\SilverRC\\Models\\PagesEnum.cs",
+              "RelativeDocumentMoniker": "SilverRC\\Models\\PagesEnum.cs",
+              "ToolTip": "C:\\Users\\s2344\\RiderProjects\\SilverRC\\SilverRC\\Models\\PagesEnum.cs",
+              "RelativeToolTip": "SilverRC\\Models\\PagesEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T20:21:38.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SettingsPageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\s2344\\RiderProjects\\SilverRC\\SilverRC\\ViewModels\\SettingsPageViewModel.cs",
+              "RelativeDocumentMoniker": "SilverRC\\ViewModels\\SettingsPageViewModel.cs",
+              "ToolTip": "C:\\Users\\s2344\\RiderProjects\\SilverRC\\SilverRC\\ViewModels\\SettingsPageViewModel.cs",
+              "RelativeToolTip": "SilverRC\\ViewModels\\SettingsPageViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T20:21:31.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SettingsPageView.axaml",
+              "DocumentMoniker": "C:\\Users\\s2344\\RiderProjects\\SilverRC\\SilverRC\\Views\\SettingsPageView.axaml",
+              "RelativeDocumentMoniker": "SilverRC\\Views\\SettingsPageView.axaml",
+              "ToolTip": "C:\\Users\\s2344\\RiderProjects\\SilverRC\\SilverRC\\Views\\SettingsPageView.axaml",
+              "RelativeToolTip": "SilverRC\\Views\\SettingsPageView.axaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-06T20:21:23.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AboutPageView.axaml",
+              "DocumentMoniker": "C:\\Users\\s2344\\RiderProjects\\SilverRC\\SilverRC\\Views\\AboutPageView.axaml",
+              "RelativeDocumentMoniker": "SilverRC\\Views\\AboutPageView.axaml",
+              "ToolTip": "C:\\Users\\s2344\\RiderProjects\\SilverRC\\SilverRC\\Views\\AboutPageView.axaml",
+              "RelativeToolTip": "SilverRC\\Views\\AboutPageView.axaml",
+              "ViewState": "AgIAAC4AAAAAAAAAAAApwE0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-06T20:15:17.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\s2344\\RiderProjects\\SilverRC\\SilverRC\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "SilverRC\\ViewModels\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\s2344\\RiderProjects\\SilverRC\\SilverRC\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeToolTip": "SilverRC\\ViewModels\\MainWindowViewModel.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAG8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T19:24:59.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.axaml",
+              "DocumentMoniker": "C:\\Users\\s2344\\RiderProjects\\SilverRC\\SilverRC\\Views\\MainWindow.axaml",
+              "RelativeDocumentMoniker": "SilverRC\\Views\\MainWindow.axaml",
+              "ToolTip": "C:\\Users\\s2344\\RiderProjects\\SilverRC\\SilverRC\\Views\\MainWindow.axaml",
+              "RelativeToolTip": "SilverRC\\Views\\MainWindow.axaml",
+              "ViewState": "AgIAADsAAAAAAAAAAAAWwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-06T18:51:22.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SettingsVM.cs",
+              "DocumentMoniker": "C:\\Users\\s2344\\RiderProjects\\SilverRC\\SilverRC\\ViewModels\\SettingsVM.cs",
+              "RelativeDocumentMoniker": "SilverRC\\ViewModels\\SettingsVM.cs",
+              "ToolTip": "C:\\Users\\s2344\\RiderProjects\\SilverRC\\SilverRC\\ViewModels\\SettingsVM.cs",
+              "RelativeToolTip": "SilverRC\\ViewModels\\SettingsVM.cs",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAcwHMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T18:45:31.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SplashScreenWindow.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\s2344\\RiderProjects\\SilverRC\\SilverRC\\Views\\SplashScreenWindow.axaml.cs",
+              "RelativeDocumentMoniker": "SilverRC\\Views\\SplashScreenWindow.axaml.cs",
+              "ToolTip": "C:\\Users\\s2344\\RiderProjects\\SilverRC\\SilverRC\\Views\\SplashScreenWindow.axaml.cs",
+              "RelativeToolTip": "SilverRC\\Views\\SplashScreenWindow.axaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T18:41:23.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SplashScreenPageView.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\s2344\\RiderProjects\\SilverRC\\SilverRC\\Views\\ControllerPages\\SplashScreenPageView.axaml.cs",
+              "RelativeDocumentMoniker": "SilverRC\\Views\\ControllerPages\\SplashScreenPageView.axaml.cs",
+              "ToolTip": "C:\\Users\\s2344\\RiderProjects\\SilverRC\\SilverRC\\Views\\ControllerPages\\SplashScreenPageView.axaml.cs",
+              "RelativeToolTip": "SilverRC\\Views\\ControllerPages\\SplashScreenPageView.axaml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T18:41:14.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\s2344\\RiderProjects\\SilverRC\\SilverRC\\Views\\MainWindow.axaml.cs",
+              "RelativeDocumentMoniker": "SilverRC\\Views\\MainWindow.axaml.cs",
+              "ToolTip": "C:\\Users\\s2344\\RiderProjects\\SilverRC\\SilverRC\\Views\\MainWindow.axaml.cs",
+              "RelativeToolTip": "SilverRC\\Views\\MainWindow.axaml.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAASwHYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T18:38:33.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\s2344\\RiderProjects\\SilverRC\\SilverRC\\App.axaml.cs",
+              "RelativeDocumentMoniker": "SilverRC\\App.axaml.cs",
+              "ToolTip": "C:\\Users\\s2344\\RiderProjects\\SilverRC\\SilverRC\\App.axaml.cs",
+              "RelativeToolTip": "SilverRC\\App.axaml.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowBUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T18:34:20.383Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

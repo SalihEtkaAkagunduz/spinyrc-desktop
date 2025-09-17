@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="SpinyRC/App.axaml" value="SpinyRC/SpinyRC.csproj" />
+        <entry key="SpinyRC/Utils/ProgressDialog.axaml" value="SpinyRC/SpinyRC.csproj" />
+        <entry key="SpinyRC/Utils/TextInputDialog.axaml" value="SpinyRC/SpinyRC.csproj" />
+        <entry key="SpinyRC/ViewModels/Utils/ProgressDialog.axaml" value="SpinyRC/SpinyRC.csproj" />
+        <entry key="SpinyRC/ViewModels/Utils/TextInputDialog.axaml" value="SpinyRC/SpinyRC.csproj" />
+        <entry key="SpinyRC/Views/AboutPageView.axaml" value="SpinyRC/SpinyRC.csproj" />
+        <entry key="SpinyRC/Views/HomePageView.axaml" value="SpinyRC/SpinyRC.csproj" />
+        <entry key="SpinyRC/Views/MainWindow.axaml" value="SpinyRC/SpinyRC.csproj" />
+        <entry key="SpinyRC/Views/SettingsPageView.axaml" value="SpinyRC/SpinyRC.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
